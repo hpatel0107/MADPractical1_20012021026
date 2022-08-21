@@ -14,9 +14,12 @@ Practical-3
 Practical-4
 ![Screenshot (927)](https://user-images.githubusercontent.com/79136705/183868119-4202a886-9d4d-46a1-943b-b743ae630924.png)
 
+Practical-5
 ![Screenshot (928)](https://user-images.githubusercontent.com/79136705/183868139-52dacc04-d1b3-49a6-9c02-8405aa0e559e.png)
+![Screenshot (929)](https://user-images.githubusercontent.com/79136705/183908955-bdf05337-50d5-4017-8f86-c3d5f143e0f6.png)
 
+Practical-6
 ![Screenshot (930)](https://user-images.githubusercontent.com/79136705/183868182-1cba3aae-05b5-46ee-b36a-706b66b39218.png)
 
-![Screenshot (929)](https://user-images.githubusercontent.com/79136705/183908955-bdf05337-50d5-4017-8f86-c3d5f143e0f6.png)
-![Screenshot (931)](https://user-images.githubusercontent.com/79136705/183908983-f2239777-b0ff-48e5-8375-501abe652902.png)
+Practical-7
+![Screenshot (937)](https://user-images.githubusercontent.com/79136705/185798192-27633423-d2f0-403a-90fb-12f4d478cb5a.png)
