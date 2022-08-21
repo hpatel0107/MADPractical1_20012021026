@@ -1,15 +1,14 @@
-fun main(args: Array<String>) {
-    print("Enter a  integer number: ")
-    val number= readLine()!!.toInt()
-    val factorial = fact(number)
-    println("Factorial of $number = $factorial")
-}
-
-fun fact(num: Int): Int {
-    return if(num == 1){
-        num
-    }
-    else{
-        num*fact(num-1)
-    }
-}
+fun main() { 
+    println("Enter value to know that's factorial") 
+    var number: Int = readLine()!!.toInt() 
+    val factorial = fact(number) 
+println("Factorial of $number = $factorial") 
+} 
+ tailrec fun fact(n: Int, temp: Int = 1): Int {
+     return if (n == 1){
+         temp 
+     }
+     else { 
+         fact(n-1, temp*n) 
+     } 
+ } 
