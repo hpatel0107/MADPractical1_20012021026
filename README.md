@@ -23,3 +23,12 @@ Practical-6
 
 Practical-7
 ![Screenshot (937)](https://user-images.githubusercontent.com/79136705/185798192-27633423-d2f0-403a-90fb-12f4d478cb5a.png)
+
+Practical-8
+![Screenshot (945)](https://user-images.githubusercontent.com/79136705/186242770-c941bf8c-2e79-4018-a3ef-ad167965f94f.png)
+
+Practical-9
+![Screenshot (946)](https://user-images.githubusercontent.com/79136705/186243202-3e640780-bdb1-4e0b-91aa-ade259a94687.png)
+
+Practical-1o
+
