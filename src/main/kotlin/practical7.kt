@@ -5,6 +5,7 @@ fun main(args: Array<String>) {
     println("Factorial of $number = $factorial")
 }
 
+
 fun fact(num: Int): Int {
     return if(num == 1){
         num
