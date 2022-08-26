@@ -11,7 +11,7 @@ class Car(private val model: String, private val owner: String, private val mile
         return owner
     }
     private fun milesDrive(): Int {
-        return miles
+        return miles 
     }
     private fun Originalprice(): Double {
         return original
