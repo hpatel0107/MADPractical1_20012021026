@@ -2,10 +2,15 @@
 ![image](https://user-images.githubusercontent.com/79136705/183351341-54938c6d-a459-472e-b429-2f875291085c.png)
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/79136705/183357058-1146972f-6530-498a-b5d5-7c99963f18b9.png)
-Practical-1
+Practical-1.1
+Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+
 ![Screenshot (933)](https://user-images.githubusercontent.com/79136705/184583068-77960345-fa43-4364-ad16-efd323afbd8c.png)
 
-Practical-2
+Practical-1.2
+Type conversion:
+Integer to Double, String to Integer, String to Double.
+
 ![Screenshot (932)](https://user-images.githubusercontent.com/79136705/183908997-7cb0ff52-b43b-4513-a5c9-a72b7579dbbf.png)
 
 Practical-3
